@@ -7,4 +7,4 @@ st.title('subtract 2 numbers')
 x = st.number_input('Enter first number')
 y = st.number_input('Enter second number')
 z=x-y
-st.write(z,"result is")
+st.write(z,"is the result")
